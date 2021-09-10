@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__practice.o
+[PROJECT FILES]
+C:\Users\timja\Documents\Main Documents\Work\Uni\Year 3\COMP2310\practice\practice.gpr
+20210830235942 26226b44652568236d602e948000c176
+[BOUND OBJECT FILES]
+C:\Users\timja\Documents\Main Documents\Work\Uni\Year 3\COMP2310\practice\Objects\practice.o
+[GENERATED SOURCE FILES]
+b__practice.ads
+b__practice.adb
+b__practice.ali
+[RESULTING OPTIONS]
+-LC:\Users\timja\Documents\Main Documents\Work\Uni\Year 3\COMP2310\practice\Objects\
+-LC:\Users\timja\Documents\Main Documents\Work\Uni\Year 3\COMP2310\practice\Objects\
+-LC:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/
+-static
+-static-libgcc
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnarl.a
+C:/gnat/2021/lib/gcc/x86_64-w64-mingw32/10.3.1/adalib/libgnat.a
+-Xlinker
+--stack=0x200000,0x1000
+-mthreads
