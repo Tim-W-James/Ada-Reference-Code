@@ -1,8 +1,0 @@
-sample.adb:17:04: warning: variable "Array_Instance" is not referenced [-gnatwu]
-sample.adb:23:13: warning: function "Increment_By" is not referenced [-gnatwu]
-sample.adb:87:04: warning: variable "Dynamic_Task" is not referenced [-gnatwu]
-sample.adb:97:10: warning: variable "Inner_Task" is not referenced [-gnatwu]
-sample.adb:123:13: warning: "Dec" is not referenced [-gnatwu]
-sample.adb:172:04: warning: if statement has no effect [-gnatwr]
-sample.adb:173:07: warning: this code can never be executed and has been deleted [-gnatwt]
-sample.adb:176:04: warning: if statement has no effect [-gnatwr]
