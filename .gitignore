@@ -3,3 +3,14 @@
 
 # Ada Library Information
 *.ali
+
+build/
+Executables/
+Objects/
+
+# GNAT Studio files
+gnatinspect.db*
+*.cgpr
+*-loc.xml
+.#*#
+*__GNATPP-TEMP

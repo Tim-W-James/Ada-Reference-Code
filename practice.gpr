@@ -13,7 +13,7 @@ project Practice is
          for Main use ("practice.adb");
 
       when "Development" =>
-         for Main use ("sample.adb", "practice.adb");
+         for Main use ("sample.adb", "practice.adb", "non_determinism.adb");
 
       when "Performance" =>
          for Main use ("practice.adb");
